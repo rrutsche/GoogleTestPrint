@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MyCloudPrinterActivity!</string>
+    <string name="app_name">MyCloudPrinter</string>
+    <string name="PrintButton">PRINT</string>
+
+</resources>
